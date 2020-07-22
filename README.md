@@ -50,5 +50,3 @@ $ yarn
 $ yarn start
 
 ```
-<hr>
-Made with :heart: by yesminmarie
