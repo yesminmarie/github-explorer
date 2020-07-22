@@ -3,7 +3,7 @@
 <img src="https://ik.imagekit.io/nplka5fxu0/Github-Explorer_-FlX_-uP0.gif" alt="Github Explorer"/>
 </p>
 
-<p>This project has been built on the Bootcamp GoStack from Rocketseat. It consists on a repository search that use the API of Github. </p>
+<p>This project has been built on the Bootcamp GoStack from Rocketseat. It consists on a repository search that uses the API of Github. </p>
 
 <p align="center">
  <a href="#objective">Objective</a> •
